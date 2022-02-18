@@ -30,7 +30,7 @@ body{
     align-items: center;
     width: 79%;
     height: 17.4%;
-    top: 2.6em;
+    top: 7.5%;
     left: 2.0em;
 }
 h2{
@@ -54,7 +54,7 @@ input{
     justify-content: space-evenly;
     flex-wrap: wrap;
     width: 98%;
-    height: 16em;
+    height: 50%;
     bottom: 1em;
     left: 0;
 }
